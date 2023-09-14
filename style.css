@@ -1,9 +1,10 @@
 body{
     background-color: rgb(248, 160, 160);
+    font-size: 45px;
 }
 li{
-    font-size: 20px;
+    font-size: 35px;
 }
 img{
-    height: 500;
+    height: 300;
 }
